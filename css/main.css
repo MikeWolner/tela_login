@@ -1,0 +1,51 @@
+.divider{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    gap: 100px;
+}
+.title{
+    font-family: 'Rokkitt', serif;
+    font-weight: 700;
+    color: #161843;
+}
+.content-text{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+}
+.input{
+    margin-top: 60px;
+    height: 50px;
+    width: 300px;
+    margin-bottom: 40px; 
+}
+.forgot{
+    text-decoration: none;
+    color: #0c6797;
+}
+.next{
+    text-decoration: none;
+    color: aliceblue;
+}
+.button{
+    background-color: #0c6797;
+    padding: 10px 30px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 70px;
+}
+.login{
+    padding-bottom: 50px;
+    box-shadow: 0 1px rgba(0, 0, 0, 0.336);
+}
+.orlogin{
+    padding-left: 150px;
+    color: rgba(0, 0, 0, 0.411);
+}
+.dont-account{
+    margin-left: 100px;
+}
+.signup{
+    color: #0c6797;
+}
